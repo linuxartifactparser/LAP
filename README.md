@@ -94,3 +94,6 @@ The already compiled LAP portable executable version can be downloaded here:
 # Youtube Video Tutorials
 
 Check out the "LAP - Linux Artifact Parser" Youtube channel for more comprehensive usage explanations:
+&nbsp;
+&nbsp;
+https://www.youtube.com/@LinuxArtifactParserLAP
