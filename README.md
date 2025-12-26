@@ -24,45 +24,45 @@ The tabs of the GUI are as follows:
 
 **LOG PARSERS**
 
-<img width="995" height="385" alt="Logparsers" src="https://github.com/user-attachments/assets/75e5901e-a190-4346-83dd-7325070fba4b" />
+<img width="895" height="285" alt="Logparsers" src="https://github.com/user-attachments/assets/75e5901e-a190-4346-83dd-7325070fba4b" />
 
 **ELF FILE ANALYSIS**
 
 
-<img width="1332" height="448" alt="elf1" src="https://github.com/user-attachments/assets/831ed6ba-b668-4d84-b966-a8c748f40755" />
+<img width="1232" height="348" alt="elf1" src="https://github.com/user-attachments/assets/831ed6ba-b668-4d84-b966-a8c748f40755" />
 &nbsp;
-<img width="1112" height="565" alt="ELF2" src="https://github.com/user-attachments/assets/4a18f53a-4044-44e8-a3cc-c2a25d804330" />
+<img width="1012" height="465" alt="ELF2" src="https://github.com/user-attachments/assets/4a18f53a-4044-44e8-a3cc-c2a25d804330" />
 
 **/PROC/MODULES**
 
-<img width="1444" height="415" alt="procmodules" src="https://github.com/user-attachments/assets/aa4bca5e-f983-4530-9a3e-5b7f043fd97b" />
+<img width="1344" height="315" alt="procmodules" src="https://github.com/user-attachments/assets/aa4bca5e-f983-4530-9a3e-5b7f043fd97b" />
 
 
 **PROC RECONSTRUCT**
 
 
-<img width="1044" height="367" alt="proc1" src="https://github.com/user-attachments/assets/620088fa-c4e9-4c96-990c-94930ae61064" />
+<img width="944" height="267" alt="proc1" src="https://github.com/user-attachments/assets/620088fa-c4e9-4c96-990c-94930ae61064" />
 &nbsp;
-<img width="1380" height="188" alt="proc2" src="https://github.com/user-attachments/assets/bce8ba5f-133e-4a09-9cff-2194dc082853" />
+<img width="1280" height="88" alt="proc2" src="https://github.com/user-attachments/assets/bce8ba5f-133e-4a09-9cff-2194dc082853" />
 
 **CRAWLERS**
 
-<img width="706" height="400" alt="crawlers" src="https://github.com/user-attachments/assets/0a9a208d-1ad1-49bf-9011-5a1234c14990" />
+<img width="606" height="300" alt="crawlers" src="https://github.com/user-attachments/assets/0a9a208d-1ad1-49bf-9011-5a1234c14990" />
 &nbsp;
-<img width="1401" height="180" alt="crawlers2" src="https://github.com/user-attachments/assets/2ab8c265-8def-45e3-8694-b057344a1036" />
+<img width="1301" height="80" alt="crawlers2" src="https://github.com/user-attachments/assets/2ab8c265-8def-45e3-8694-b057344a1036" />
 
 
 **RPM PACKAGE ANALYSIS**
 
-<img width="680" height="605" alt="RPM_package_analysis" src="https://github.com/user-attachments/assets/8a067443-efd5-4253-868b-51b88d36670d" />
+<img width="580" height="505" alt="RPM_package_analysis" src="https://github.com/user-attachments/assets/8a067443-efd5-4253-868b-51b88d36670d" />
 
 **DEB PACKAGE ANALYSIS**
 
-<img width="702" height="161" alt="DEB_package_analysis" src="https://github.com/user-attachments/assets/791b69ba-5044-4422-abbb-0b5552d1d6b9" />
+<img width="602" height="61" alt="DEB_package_analysis" src="https://github.com/user-attachments/assets/791b69ba-5044-4422-abbb-0b5552d1d6b9" />
 
 **TREE VIEW**
 
-<img width="1337" height="410" alt="tree_view" src="https://github.com/user-attachments/assets/04b7bbb7-485b-4655-92c3-24041a5f0753" />
+<img width="1237" height="310" alt="tree_view" src="https://github.com/user-attachments/assets/04b7bbb7-485b-4655-92c3-24041a5f0753" />
 
 
 # LAP Portable/Standalone - Download
