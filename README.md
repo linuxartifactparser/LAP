@@ -61,7 +61,7 @@ The tabs of the GUI are as follows:
 <img width="606" height="300" alt="crawlers" src="https://github.com/user-attachments/assets/0a9a208d-1ad1-49bf-9011-5a1234c14990" />
 &nbsp;
 &nbsp;
-<img width="1301" height="80" alt="crawlers2" src="https://github.com/user-attachments/assets/2ab8c265-8def-45e3-8694-b057344a1036" />
+<img width="1101" height="80" alt="crawlers2" src="https://github.com/user-attachments/assets/2ab8c265-8def-45e3-8694-b057344a1036" />
 
 &nbsp;
 &nbsp;
@@ -74,7 +74,7 @@ The tabs of the GUI are as follows:
 
 **DEB PACKAGE ANALYSIS**
 
-<img width="602" height="61" alt="DEB_package_analysis" src="https://github.com/user-attachments/assets/791b69ba-5044-4422-abbb-0b5552d1d6b9" />
+<img width="402" height="61" alt="DEB_package_analysis" src="https://github.com/user-attachments/assets/791b69ba-5044-4422-abbb-0b5552d1d6b9" />
 &nbsp;
 &nbsp;
 
