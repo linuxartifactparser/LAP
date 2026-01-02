@@ -90,6 +90,8 @@ The tabs of the GUI are as follows:
 
 The already compiled LAP portable executable version can be downloaded here:
 
+https://sourceforge.net/projects/linux-artifact-parser/files/
+
 
 # Youtube Video Tutorials
 
