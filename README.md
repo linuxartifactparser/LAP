@@ -46,8 +46,9 @@ The tabs of the GUI are as follows:
 
 **PROC RECONSTRUCT**
 
+<img width="1585" height="881" alt="proc" src="https://github.com/user-attachments/assets/8a39b70c-452b-45ab-b862-4a6d63a35c18" />
 
-<img width="944" height="267" alt="proc1" src="https://github.com/user-attachments/assets/620088fa-c4e9-4c96-990c-94930ae61064" />
+
 
 &nbsp;
 &nbsp;
